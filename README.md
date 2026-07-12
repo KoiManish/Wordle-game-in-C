@@ -95,7 +95,3 @@ Only valid five-letter words are to be accepted.
 ## Author
 
 Manish Kumar
-
-```
-
-```
