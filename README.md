@@ -47,10 +47,11 @@ practices C programming and implements file handling, modular programming, user 
 
 Run the following commands to compile, run and clean the project:
 
-'''bash
+```bash
 make # Build project
 make run # Build and run
 make clean # Remove build directory
+```
 
 ---
 
@@ -85,11 +86,16 @@ Only valid five-letter words are to be accepted.
 
 ## Build Options
 
-'''bash
+```bash
 -Wall -Wextra -std=gnu11 -g
+```
 
 ---
 
 ## Author
 
 Manish Kumar
+
+```
+
+```
