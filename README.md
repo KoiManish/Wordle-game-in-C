@@ -64,7 +64,7 @@ Feedback:
 
 - **Green** - Correct letter in correct position.
 - **Yellow** - Letter exists in the word but is in wrong position.
-- **Red** -- Letter is not in the word.
+- **Red** - Letter is not in the word.
 
 Only valid five-letter words are to be accepted.
 
